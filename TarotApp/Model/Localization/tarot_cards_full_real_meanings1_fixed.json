@@ -1,0 +1,1406 @@
+[
+  {
+    "name": {
+      "en": "The Fool",
+      "ua": "Дурень",
+      "ru": "Дурак"
+    },
+    "uprightMeaning": {
+      "en": "New beginnings, faith in the future, foolishness, spontaneity, a leap of faith",
+      "ua": "Нові починання, віра в майбутнє, дурість, спонтанність, стрибок віри",
+      "ru": "Новые начинания, вера в будущее, глупость, спонтанность, прыжок веры"
+    },
+    "reversedMeaning": {
+      "en": "Holding back, hesitation, fear of change, bad decisions",
+      "ua": "Стримування, вагання, страх змін, погані рішення",
+      "ru": "Сдерживание, колебание, страх перемен, плохие решения"
+    },
+    "imageName": "00-TheFool"
+  },
+  {
+    "name": {
+      "en": "The Magician",
+      "ua": "Маг",
+      "ru": "Маг"
+    },
+    "uprightMeaning": {
+      "en": "Power, skill, concentration, manifestation, resourcefulness",
+      "ua": "Сила, майстерність, концентрація, прояв, винахідливість",
+      "ru": "Сила, мастерство, концентрация, проявление, находчивость"
+    },
+    "reversedMeaning": {
+      "en": "Manipulation, poor planning, untapped talents, insecurity",
+      "ua": "Маніпуляція, погане планування, невикористані таланти, невпевненість",
+      "ru": "Манипуляция, плохое планирование, неиспользованные таланты, неуверенность"
+    },
+    "imageName": "01-TheMagician"
+  },
+  {
+    "name": {
+      "en": "The High Priestess",
+      "ua": "Верховна Жриця",
+      "ru": "Верховная Жрица"
+    },
+    "uprightMeaning": {
+      "en": "Intuition, sacred knowledge, divine feminine, the subconscious",
+      "ua": "Інтуїція, священні знання, божественна жіночність, підсвідомість",
+      "ru": "Интуиция, священные знания, божественная женственность, подсознание"
+    },
+    "reversedMeaning": {
+      "en": "Secrets, disconnected from intuition, withdrawal, silence",
+      "ua": "Секрети, відірваність від інтуїції, відстороненість, мовчання",
+      "ru": "Секреты, оторванность от интуиции, отдаление, молчание"
+    },
+    "imageName": "02-TheHighPriestess"
+  },
+  {
+    "name": {
+      "en": "The Empress",
+      "ua": "Імператриця",
+      "ru": "Императрица"
+    },
+    "uprightMeaning": {
+      "en": "Abundance, nature, fertility, nurturing, beauty",
+      "ua": "Достаток, природа, родючість, виховання, краса",
+      "ru": "Изобилие, природа, плодородие, воспитание, красота"
+    },
+    "reversedMeaning": {
+      "en": "Dependence, smothering, emptiness, lack of growth",
+      "ua": "Залежність, задушливість, порожнеча, відсутність зростання",
+      "ru": "Зависимость, удушливость, пустота, отсутствие роста"
+    },
+    "imageName": "03-TheEmpress"
+  },
+  {
+    "name": {
+      "en": "The Emperor",
+      "ua": "Імператор",
+      "ru": "Император"
+    },
+    "uprightMeaning": {
+      "en": "Authority, structure, control, fatherhood, stability",
+      "ua": "Влада, структура, контроль, батьківство, стабільність",
+      "ru": "Власть, структура, контроль, отцовство, стабильность"
+    },
+    "reversedMeaning": {
+      "en": "Tyranny, rigidity, lack of control, weakness",
+      "ua": "Тиранія, жорсткість, відсутність контролю, слабкість",
+      "ru": "Тирания, жесткость, отсутствие контроля, слабость"
+    },
+    "imageName": "04-TheEmperor"
+  },
+  {
+    "name": {
+      "en": "The Hierophant",
+      "ua": "Ієрофант",
+      "ru": "Иерофант"
+    },
+    "uprightMeaning": {
+      "en": "Tradition, conformity, morality, ethics, institutions",
+      "ua": "Традиції, конформізм, мораль, етика, інституції",
+      "ru": "Традиции, конформизм, мораль, этика, институты"
+    },
+    "reversedMeaning": {
+      "en": "Rebellion, subversiveness, new approaches, personal beliefs",
+      "ua": "Бунт, підрив, нові підходи, особисті переконання",
+      "ru": "Бунт, подрыв, новые подходы, личные убеждения"
+    },
+    "imageName": "05-TheHierophant"
+  },
+  {
+    "name": {
+      "en": "The Lovers",
+      "ua": "Закохані",
+      "ru": "Влюбленные"
+    },
+    "uprightMeaning": {
+      "en": "Love, harmony, relationships, choices, union",
+      "ua": "Любов, гармонія, стосунки, вибір, союз",
+      "ru": "Любовь, гармония, отношения, выбор, союз"
+    },
+    "reversedMeaning": {
+      "en": "Imbalance, one-sidedness, disharmony, lack of choice",
+      "ua": "Дисбаланс, однобокість, дисгармонія, відсутність вибору",
+      "ru": "Дисбаланс, однобокость, дисгармония, отсутствие выбора"
+    },
+    "imageName": "06-TheLovers"
+  },
+  {
+    "name": {
+      "en": "The Chariot",
+      "ua": "Колісниця",
+      "ru": "Колесница"
+    },
+    "uprightMeaning": {
+      "en": "Willpower, success, determination, direction, control",
+      "ua": "Сила волі, успіх, рішучість, напрямок, контроль",
+      "ru": "Сила воли, успех, решительность, направление, контроль"
+    },
+    "reversedMeaning": {
+      "en": "Lack of control, self-doubt, failure, opposition",
+      "ua": "Відсутність контролю, невпевненість у собі, невдача, опозиція",
+      "ru": "Отсутствие контроля, неуверенность в себе, неудача, оппозиция"
+    },
+    "imageName": "07-TheChariot"
+  },
+  {
+    "name": {
+      "en": "Strength",
+      "ua": "Сила",
+      "ru": "Сила"
+    },
+    "uprightMeaning": {
+      "en": "Courage, patience, compassion, focus, inner strength",
+      "ua": "Мужність, терпіння, співчуття, зосередженість, внутрішня сила",
+      "ru": "Мужество, терпение, сострадание, сосредоточенность, внутренняя сила"
+    },
+    "reversedMeaning": {
+      "en": "Self-doubt, weakness, insecurity, lack of self-control",
+      "ua": "Невпевненість у собі, слабкість, незахищеність, відсутність самоконтролю",
+      "ru": "Неуверенность в себе, слабость, незащищенность, отсутствие самоконтроля"
+    },
+    "imageName": "08-Strength"
+  },
+  {
+    "name": {
+      "en": "The Hermit",
+      "ua": "Відлюдник",
+      "ru": "Отшельник"
+    },
+    "uprightMeaning": {
+      "en": "Introspection, solitude, spiritual guidance, self-discovery, inner wisdom",
+      "ua": "Самоаналіз, самотність, духовне керівництво, самопізнання, внутрішня мудрість",
+      "ru": "Самоанализ, одиночество, духовное руководство, самопознание, внутренняя мудрость"
+    },
+    "reversedMeaning": {
+      "en": "Isolation, loneliness, withdrawal, paranoia",
+      "ua": "Ізоляція, самотність, відстороненість, параноя",
+      "ru": "Изоляция, одиночество, отстраненность, паранойя"
+    },
+    "imageName": "09-TheHermit"
+  },
+  {
+    "name": {
+      "en": "Wheel of Fortune",
+      "ua": "Колесо Фортуни",
+      "ru": "Колесо Фортуны"
+    },
+    "uprightMeaning": {
+      "en": "Good luck, destiny, change, karma, turning point",
+      "ua": "Удача, доля, зміни, карма, поворотний момент",
+      "ru": "Удача, судьба, перемены, карма, поворотный момент"
+    },
+    "reversedMeaning": {
+      "en": "Bad luck, resistance to change, delays, setbacks",
+      "ua": "Невдача, опір змінам, затримки, невдачі",
+      "ru": "Неудача, сопротивление переменам, задержки, неудачи"
+    },
+    "imageName": "10-WheelOfFortune"
+  },
+  {
+    "name": {
+      "en": "Justice",
+      "ua": "Правосуддя",
+      "ru": "Правосудие"
+    },
+    "uprightMeaning": {
+      "en": "Fairness, truth, cause and effect, law, clarity",
+      "ua": "Справедливість, правда, причина і наслідок, закон, ясність",
+      "ru": "Справедливость, правда, причина и следствие, закон, ясность"
+    },
+    "reversedMeaning": {
+      "en": "Injustice, dishonesty, unfairness, lack of accountability",
+      "ua": "Несправедливість, нечесність, нечесність, відсутність відповідальності",
+      "ru": "Несправедливость, нечестность, несправедливость, отсутствие ответственности"
+    },
+    "imageName": "11-Justice"
+  },
+  {
+    "name": {
+      "en": "The Hanged Man",
+      "ua": "Повішений",
+      "ru": "Повешенный"
+    },
+    "uprightMeaning": {
+      "en": "Pause, surrender, new perspective, release, sacrifice",
+      "ua": "Пауза, капітуляція, новий погляд, звільнення, жертва",
+      "ru": "Пауза, капитуляция, новый взгляд, освобождение, жертва"
+    },
+    "reversedMeaning": {
+      "en": "Stalling, fear of sacrifice, martyrdom, delays",
+      "ua": "Застій, страх жертви, мучеництво, затримки",
+      "ru": "Застой, страх жертвы, мученичество, задержки"
+    },
+    "imageName": "12-TheHangedMan"
+  },
+  {
+    "name": {
+      "en": "Death",
+      "ua": "Смерть",
+      "ru": "Смерть"
+    },
+    "uprightMeaning": {
+      "en": "Endings, change, transformation, transition, release",
+      "ua": "Кінці, зміни, трансформація, перехід, звільнення",
+      "ru": "Концы, перемены, трансформация, переход, освобождение"
+    },
+    "reversedMeaning": {
+      "en": "Resistance to change, fear of endings, stagnation, decay",
+      "ua": "Опір змінам, страх кінців, застій, розпад",
+      "ru": "Сопротивление переменам, страх концов, застой, распад"
+    },
+    "imageName": "13-Death"
+  },
+  {
+    "name": {
+      "en": "Temperance",
+      "ua": "Помірність",
+      "ru": "Умеренность"
+    },
+    "uprightMeaning": {
+      "en": "Balance, moderation, patience, purpose, harmony",
+      "ua": "Баланс, помірність, терпіння, мета, гармонія",
+      "ru": "Баланс, умеренность, терпение, цель, гармония"
+    },
+    "reversedMeaning": {
+      "en": "Imbalance, impatience, excess, lack of long-term vision",
+      "ua": "Дисбаланс, нетерпіння, надмірність, відсутність довгострокового бачення",
+      "ru": "Дисбаланс, нетерпение, избыток, отсутствие долгосрочного видения"
+    },
+    "imageName": "14-Temperance"
+  },
+  {
+    "name": {
+      "en": "The Devil",
+      "ua": "Диявол",
+      "ru": "Дьявол"
+    },
+    "uprightMeaning": {
+      "en": "Materialism, addiction, obsession, restriction, shadow self",
+      "ua": "Матеріалізм, залежність, одержимість, обмеження, тіньове «я»",
+      "ru": "Материализм, зависимость, одержимость, ограничение, теневое «я»"
+    },
+    "reversedMeaning": {
+      "en": "Freedom from addiction, release from restriction, revelation, personal power",
+      "ua": "Звільнення від залежності, звільнення від обмежень, одкровення, особиста сила",
+      "ru": "Освобождение от зависимости, освобождение от ограничений, откровение, личная сила"
+    },
+    "imageName": "15-TheDevil"
+  },
+  {
+    "name": {
+      "en": "The Tower",
+      "ua": "Вежа",
+      "ru": "Башня"
+    },
+    "uprightMeaning": {
+      "en": "Sudden change, revelation, chaos, awakening, release",
+      "ua": "Раптові зміни, одкровення, хаос, пробудження, звільнення",
+      "ru": "Внезапные перемены, откровение, хаос, пробуждение, освобождение"
+    },
+    "reversedMeaning": {
+      "en": "Resistance to change, fear of change, delaying the inevitable, avoiding disaster",
+      "ua": "Опір змінам, страх змін, відстрочка неминучого, уникнення катастрофи",
+      "ru": "Сопротивление переменам, страх перемен, отсрочка неизбежного, избегание катастрофы"
+    },
+    "imageName": "16-TheTower"
+  },
+  {
+    "name": {
+      "en": "The Star",
+      "ua": "Зірка",
+      "ru": "Звезда"
+    },
+    "uprightMeaning": {
+      "en": "Hope, inspiration, faith, renewal, spirituality",
+      "ua": "Надія, натхнення, віра, оновлення, духовність",
+      "ru": "Надежда, вдохновение, вера, обновление, духовность"
+    },
+    "reversedMeaning": {
+      "en": "Despair, lack of faith, disappointment, disconnection, insecurity",
+      "ua": "Відчай, відсутність віри, розчарування, роз'єднання, невпевненість",
+      "ru": "Отчаяние, отсутствие веры, разочарование, разъединение, неуверенность"
+    },
+    "imageName": "17-TheStar"
+  },
+  {
+    "name": {
+      "en": "The Moon",
+      "ua": "Місяць",
+      "ru": "Луна"
+    },
+    "uprightMeaning": {
+      "en": "Intuition, dreams, the subconscious, mystery, illusion",
+      "ua": "Інтуїція, мрії, підсвідомість, таємниця, ілюзія",
+      "ru": "Интуиция, мечты, подсознание, тайна, иллюзия"
+    },
+    "reversedMeaning": {
+      "en": "Confusion, fear, deception, hidden enemies, insecurity",
+      "ua": "Заплутаність, страх, обман, приховані вороги, невпевненість",
+      "ru": "Запутанность, страх, обман, скрытые враги, неуверенность"
+    },
+    "imageName": "18-TheMoon"
+  },
+  {
+    "name": {
+      "en": "The Sun",
+      "ua": "Сонце",
+      "ru": "Солнце"
+    },
+    "uprightMeaning": {
+      "en": "Joy, success, celebration, positivity, vitality",
+      "ua": "Радість, успіх, свято, позитив, життєва сила",
+      "ru": "Радость, успех, праздник, позитив, жизненная сила"
+    },
+    "reversedMeaning": {
+      "en": "Negativity, depression, sadness, lack of energy, delays",
+      "ua": "Негатив, депресія, смуток, брак енергії, затримки",
+      "ru": "Негатив, депрессия, грусть, недостаток энергии, задержки"
+    },
+    "imageName": "19-TheSun"
+  },
+  {
+    "name": {
+      "en": "Judgement",
+      "ua": "Суд",
+      "ru": "Суд"
+    },
+    "uprightMeaning": {
+      "en": "Rebirth, inner calling, absolution, awakening, renewal",
+      "ua": "Відродження, внутрішній поклик, відпущення гріхів, пробудження, оновлення",
+      "ru": "Возрождение, внутренний зов, отпущение грехов, пробуждение, обновление"
+    },
+    "reversedMeaning": {
+      "en": "Self-doubt, lack of self-awareness, failure to learn, indecision",
+      "ua": "Невпевненість у собі, відсутність самосвідомості, нездатність вчитися, нерішучість",
+      "ru": "Неуверенность в себе, отсутствие самосознания, неспособность учиться, нерешительность"
+    },
+    "imageName": "20-Judgement"
+  },
+  {
+    "name": {
+      "en": "The World",
+      "ua": "Світ",
+      "ru": "Мир"
+    },
+    "uprightMeaning": {
+      "en": "Completion, achievement, travel, wholeness, fulfillment",
+      "ua": "Завершення, досягнення, подорожі, цілісність, самореалізація",
+      "ru": "Завершение, достижение, путешествия, целостность, самореализация"
+    },
+    "reversedMeaning": {
+      "en": "Incompletion, lack of closure, delays, disappointment",
+      "ua": "Незавершеність, відсутність завершення, затримки, розчарування",
+      "ru": "Незавершенность, отсутствие завершения, задержки, разочарование"
+    },
+    "imageName": "21-TheWorld"
+  },
+  {
+    "name": {
+      "en": "Cups of 1",
+      "ua": "1 Кубків",
+      "ru": "1 Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Emotions, relationships, feelings — positive aspect",
+      "ua": "Емоції, стосунки, почуття — позитивний аспект",
+      "ru": "Эмоции, отношения, чувства — позитивное проявление"
+    },
+    "reversedMeaning": {
+      "en": "Emotions, relationships, feelings — blocked or negative aspect",
+      "ua": "Емоції, стосунки, почуття — заблокований або негативний аспект",
+      "ru": "Эмоции, отношения, чувства — искажённое или блокированное проявление"
+    },
+    "imageName": "Cups01"
+  },
+  {
+    "name": {
+      "en": "Cups of 2",
+      "ua": "2 Кубків",
+      "ru": "2 Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Unified love, partnership, attraction, relationships",
+      "ua": "Єдина любов, партнерство, привабливість, стосунки",
+      "ru": "Единая любовь, партнерство, привлекательность, отношения"
+    },
+    "reversedMeaning": {
+      "en": "Loss of love, broken communication, lack of harmony",
+      "ua": "Втрата любові, порушення спілкування, відсутність гармонії",
+      "ru": "Потеря любви, нарушение общения, отсутствие гармонии"
+    },
+    "imageName": "Cups02"
+  },
+  {
+    "name": {
+      "en": "Cups of 3",
+      "ua": "3 Кубків",
+      "ru": "3 Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Celebration, friendship, creativity, community",
+      "ua": "Святкування, дружба, творчість, спільнота",
+      "ru": "Празднование, дружба, творчество, сообщество"
+    },
+    "reversedMeaning": {
+      "en": "Indifference, overindulgence, lack of support, isolation",
+      "ua": "Байдужість, надмірність, відсутність підтримки, ізоляція",
+      "ru": "Равнодушие, излишество, отсутствие поддержки, изоляция"
+    },
+    "imageName": "Cups03"
+  },
+  {
+    "name": {
+      "en": "Cups of 4",
+      "ua": "4 Кубків",
+      "ru": "4 Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Contemplation, apathy, boredom, introspection",
+      "ua": "Споглядання, апатія, нудьга, самоаналіз",
+      "ru": "Созерцание, апатия, скука, самоанализ"
+    },
+    "reversedMeaning": {
+      "en": "Sudden awareness, missed opportunities, dissatisfaction",
+      "ua": "Раптове усвідомлення, втрачені можливості, незадоволення",
+      "ru": "Внезапное осознание, упущенные возможности, неудовлетворенность"
+    },
+    "imageName": "Cups04"
+  },
+  {
+    "name": {
+      "en": "Cups of 5",
+      "ua": "5 Кубків",
+      "ru": "5 Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Loss, regret, disappointment, pessimism",
+      "ua": "Втрата, жаль, розчарування, песимізм",
+      "ru": "Потеря, сожаление, разочарование, пессимизм"
+    },
+    "reversedMeaning": {
+      "en": "Acceptance, moving on, forgiveness, hope",
+      "ua": "Прийняття, рух вперед, прощення, надія",
+      "ru": "Принятие, движение вперед, прощение, надежда"
+    },
+    "imageName": "Cups05"
+  },
+  {
+    "name": {
+      "en": "Cups of 6",
+      "ua": "6 Кубків",
+      "ru": "6 Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Nostalgia, memories, innocence, joy",
+      "ua": "Ностальгія, спогади, невинність, радість",
+      "ru": "Ностальгия, воспоминания, невинность, радость"
+    },
+    "reversedMeaning": {
+      "en": "Stuck in the past, naivety, lack of growth, moving forward",
+      "ua": "Застряг у минулому, наївність, відсутність зростання, рух вперед",
+      "ru": "Застрял в прошлом, наивность, отсутствие роста, движение вперед"
+    },
+    "imageName": "Cups06"
+  },
+  {
+    "name": {
+      "en": "Cups of 7",
+      "ua": "7 Кубків",
+      "ru": "7 Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Choices, fantasy, illusion, wishful thinking",
+      "ua": "Вибір, фантазія, ілюзія, видавання бажаного за дійсне",
+      "ru": "Выбор, фантазия, иллюзия, выдавание желаемого за действительное"
+    },
+    "reversedMeaning": {
+      "en": "Clarity, realism, taking action, lack of purpose",
+      "ua": "Ясність, реалізм, дії, відсутність мети",
+      "ru": "Ясность, реализм, действия, отсутствие цели"
+    },
+    "imageName": "Cups07"
+  },
+  {
+    "name": {
+      "en": "Cups of 8",
+      "ua": "8 Кубків",
+      "ru": "8 Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Disappointment, abandonment, withdrawal, searching for meaning",
+      "ua": "Розчарування, відмова, відсторонення, пошук сенсу",
+      "ru": "Разочарование, отказ, отстранение, поиск смысла"
+    },
+    "reversedMeaning": {
+      "en": "Stagnation, avoidance, fear of change, staying in a bad situation",
+      "ua": "Застій, уникнення, страх змін, перебування в поганій ситуації",
+      "ru": "Застой, избегание, страх перемен, пребывание в плохой ситуации"
+    },
+    "imageName": "Cups08"
+  },
+  {
+    "name": {
+      "en": "Cups of 9",
+      "ua": "9 Кубків",
+      "ru": "9 Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Satisfaction, comfort, happiness, emotional stability",
+      "ua": "Задоволення, комфорт, щастя, емоційна стабільність",
+      "ru": "Удовлетворение, комфорт, счастье, эмоциональная стабильность"
+    },
+    "reversedMeaning": {
+      "en": "Greed, dissatisfaction, self-indulgence, lack of emotional fulfillment",
+      "ua": "Жадібність, незадоволення, поблажливість до себе, відсутність емоційного задоволення",
+      "ru": "Жадность, неудовлетворенность, потакание своим слабостям, отсутствие эмоционального удовлетворения"
+    },
+    "imageName": "Cups09"
+  },
+  {
+    "name": {
+      "en": "Cups of 10",
+      "ua": "10 Кубків",
+      "ru": "10 Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Harmony, happiness, family, alignment, joy",
+      "ua": "Гармонія, щастя, сім'я, єдність, радість",
+      "ru": "Гармония, счастье, семья, единство, радость"
+    },
+    "reversedMeaning": {
+      "en": "Disharmony, lack of alignment, broken family, sadness",
+      "ua": "Дисгармонія, відсутність єдності, розбита сім'я, смуток",
+      "ru": "Дисгармония, отсутствие единства, разбитая семья, грусть"
+    },
+    "imageName": "Cups10"
+  },
+  {
+    "name": {
+      "en": "Cups of 11",
+      "ua": "Паж Кубків",
+      "ru": "Паж Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Creativity, sensitivity, intuition, romance, charm",
+      "ua": "Творчість, чутливість, інтуїція, романтика, чарівність",
+      "ru": "Творчество, чувствительность, интуиция, романтика, очарование"
+    },
+    "reversedMeaning": {
+      "en": "Emotional immaturity, insecurity, creative block, disappointment",
+      "ua": "Емоційна незрілість, невпевненість, творчий блок, розчарування",
+      "ru": "Эмоциональная незрелость, неуверенность, творческий блок, разочарование"
+    },
+    "imageName": "Cups11"
+  },
+  {
+    "name": {
+      "en": "Cups of 12",
+      "ua": "Лицар Кубків",
+      "ru": "Рыцарь Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Romance, charm, imagination, idealism, invitation",
+      "ua": "Романтика, чарівність, уява, ідеалізм, запрошення",
+      "ru": "Романтика, очарование, воображение, идеализм, приглашение"
+    },
+    "reversedMeaning": {
+      "en": "Disappointment, moodiness, unrealistic expectations, emotional instability",
+      "ua": "Розчарування, примхливість, нереалістичні очікування, емоційна нестабільність",
+      "ru": "Разочарование, капризность, нереалистичные ожидания, эмоциональная нестабильность"
+    },
+    "imageName": "Cups12"
+  },
+  {
+    "name": {
+      "en": "Cups of 13",
+      "ua": "Королева Кубків",
+      "ru": "Королева Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Compassion, nurturing, intuition, emotional security, inner feelings",
+      "ua": "Співчуття, виховання, інтуїція, емоційна безпека, внутрішні почуття",
+      "ru": "Сострадание, воспитание, интуиция, эмоциональная безопасность, внутренние чувства"
+    },
+    "reversedMeaning": {
+      "en": "Emotional insecurity, dependence, smothering, manipulation",
+      "ua": "Емоційна незахищеність, залежність, задушливість, маніпуляція",
+      "ru": "Эмоциональная незащищенность, зависимость, удушливость, манипуляция"
+    },
+    "imageName": "Cups13"
+  },
+  {
+    "name": {
+      "en": "Cups of 14",
+      "ua": "Король Кубків",
+      "ru": "Король Кубков"
+    },
+    "uprightMeaning": {
+      "en": "Compassion, control, balance, diplomacy, emotional maturity",
+      "ua": "Співчуття, контроль, баланс, дипломатія, емоційна зрілість",
+      "ru": "Сострадание, контроль, баланс, дипломатия, эмоциональная зрелость"
+    },
+    "reversedMeaning": {
+      "en": "Emotional manipulation, moodiness, instability, lack of control",
+      "ua": "Емоційна маніпуляція, примхливість, нестабільність, відсутність контролю",
+      "ru": "Эмоциональная манипуляция, капризность, нестабильность, отсутствие контроля"
+    },
+    "imageName": "Cups14"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 1",
+      "ua": "1 Пентаклів",
+      "ru": "1 Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Manifestation, new financial opportunity, prosperity, abundance",
+      "ua": "Прояв, нова фінансова можливість, процвітання, достаток",
+      "ru": "Проявление, новая финансовая возможность, процветание, изобилие"
+    },
+    "reversedMeaning": {
+      "en": "Lost opportunity, lack of planning, greed, insecurity",
+      "ua": "Втрачена можливість, відсутність планування, жадібність, незахищеність",
+      "ru": "Упущенная возможность, отсутствие планирования, жадность, незащищенность"
+    },
+    "imageName": "Pentacles01"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 2",
+      "ua": "2 Пентаклів",
+      "ru": "2 Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Balance, adaptability, juggling priorities, change",
+      "ua": "Баланс, адаптивність, жонглювання пріоритетами, зміни",
+      "ru": "Баланс, адаптивность, жонглирование приоритетами, перемены"
+    },
+    "reversedMeaning": {
+      "en": "Imbalance, disorganization, lack of focus, overwhelmed",
+      "ua": "Дисбаланс, дезорганізація, відсутність зосередженості, перевантаження",
+      "ru": "Дисбаланс, дезорганизация, отсутствие сосредоточенности, перегрузка"
+    },
+    "imageName": "Pentacles02"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 3",
+      "ua": "3 Пентаклів",
+      "ru": "3 Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Teamwork, collaboration, skill, craftsmanship, dedication",
+      "ua": "Командна робота, співпраця, майстерність, ремесло, відданість",
+      "ru": "Командная работа, сотрудничество, мастерство, ремесло, преданность"
+    },
+    "reversedMeaning": {
+      "en": "Lack of teamwork, poor quality, lack of dedication, missed deadlines",
+      "ua": "Відсутність командної роботи, погана якість, відсутність відданості, пропущені терміни",
+      "ru": "Отсутствие командной работы, плохое качество, отсутствие преданности, пропущенные сроки"
+    },
+    "imageName": "Pentacles03"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 4",
+      "ua": "4 Пентаклів",
+      "ru": "4 Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Security, stability, control, possession, conservatism",
+      "ua": "Безпека, стабільність, контроль, володіння, консерватизм",
+      "ru": "Безопасность, стабильность, контроль, обладание, консерватизм"
+    },
+    "reversedMeaning": {
+      "en": "Greed, possessiveness, insecurity, instability, loss",
+      "ua": "Жадібність, власництво, незахищеність, нестабільність, втрата",
+      "ru": "Жадность, собственничество, незащищенность, нестабильность, потеря"
+    },
+    "imageName": "Pentacles04"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 5",
+      "ua": "5 Пентаклів",
+      "ru": "5 Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Hardship, loss, poverty, isolation, insecurity",
+      "ua": "Труднощі, втрати, бідність, ізоляція, незахищеність",
+      "ru": "Трудности, потери, бедность, изоляция, незащищенность"
+    },
+    "reversedMeaning": {
+      "en": "Recovery, relief, improvement, finding support, hope",
+      "ua": "Відновлення, полегшення, покращення, пошук підтримки, надія",
+      "ru": "Восстановление, облегчение, улучшение, поиск поддержки, надежда"
+    },
+    "imageName": "Pentacles05"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 6",
+      "ua": "6 Пентаклів",
+      "ru": "6 Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Generosity, charity, sharing, gifts, prosperity",
+      "ua": "Щедрість, благодійність, обмін, подарунки, процвітання",
+      "ru": "Щедрость, благотворительность, обмен, подарки, процветание"
+    },
+    "reversedMeaning": {
+      "en": "Greed, selfishness, one-sided charity, debt, imbalance",
+      "ua": "Жадібність, егоїзм, одностороння благодійність, борг, дисбаланс",
+      "ru": "Жадность, эгоизм, односторонняя благотворительность, долг, дисбаланс"
+    },
+    "imageName": "Pentacles06"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 7",
+      "ua": "7 Пентаклів",
+      "ru": "7 Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Patience, long-term view, investment, perseverance, reward",
+      "ua": "Терпіння, довгостроковий погляд, інвестиції, наполегливість, винагорода",
+      "ru": "Терпение, долгосрочный взгляд, инвестиции, настойчивость, вознаграждение"
+    },
+    "reversedMeaning": {
+      "en": "Lack of reward, impatience, short-sightedness, poor investment",
+      "ua": "Відсутність винагороди, нетерпіння, короткозорість, погані інвестиції",
+      "ru": "Отсутствие вознаграждения, нетерпение, близорукость, плохие инвестиции"
+    },
+    "imageName": "Pentacles07"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 8",
+      "ua": "8 Пентаклів",
+      "ru": "8 Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Skill, craftsmanship, dedication, focus, improvement",
+      "ua": "Майстерність, ремесло, відданість, зосередженість, покращення",
+      "ru": "Мастерство, ремесло, преданность, сосредоточенность, улучшение"
+    },
+    "reversedMeaning": {
+      "en": "Lack of skill, perfectionism, poor quality, lack of focus",
+      "ua": "Відсутність майстерності, перфекціонізм, погана якість, відсутність зосередженості",
+      "ru": "Отсутствие мастерства, перфекционизм, плохое качество, отсутствие сосредоточенности"
+    },
+    "imageName": "Pentacles08"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 9",
+      "ua": "9 Пентаклів",
+      "ru": "9 Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Independence, self-sufficiency, security, luxury, success",
+      "ua": "Незалежність, самодостатність, безпека, розкіш, успіх",
+      "ru": "Независимость, самодостаточность, безопасность, роскошь, успех"
+    },
+    "reversedMeaning": {
+      "en": "Dependence, lack of independence, insecurity, overspending, loss",
+      "ua": "Залежність, відсутність незалежності, незахищеність, надмірні витрати, втрати",
+      "ru": "Зависимость, отсутствие независимости, незащищенность, чрезмерные расходы, потери"
+    },
+    "imageName": "Pentacles09"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 10",
+      "ua": "10 Пентаклів",
+      "ru": "10 Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Wealth, inheritance, family, tradition, security",
+      "ua": "Багатство, спадщина, сім'я, традиції, безпека",
+      "ru": "Богатство, наследство, семья, традиции, безопасность"
+    },
+    "reversedMeaning": {
+      "en": "Financial failure, loss, instability, broken family, lack of tradition",
+      "ua": "Фінансова невдача, втрата, нестабільність, розбита сім'я, відсутність традицій",
+      "ru": "Финансовая неудача, потеря, нестабильность, разбитая семья, отсутствие традиций"
+    },
+    "imageName": "Pentacles10"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 11",
+      "ua": "Паж Пентаклів",
+      "ru": "Паж Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Manifestation, new financial opportunity, prosperity, abundance",
+      "ua": "Прояв, нова фінансова можливість, процвітання, достаток",
+      "ru": "Проявление, новая финансовая возможность, процветание, изобилие"
+    },
+    "reversedMeaning": {
+      "en": "Lost opportunity, lack of planning, greed, insecurity",
+      "ua": "Втрачена можливість, відсутність планування, жадібність, незахищеність",
+      "ru": "Упущенная возможность, отсутствие планирования, жадность, незащищенность"
+    },
+    "imageName": "Pentacles11"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 12",
+      "ua": "Лицар Пентаклів",
+      "ru": "Рыцарь Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Efficiency, routine, conservatism, methodical approach, persistence",
+      "ua": "Ефективність, рутина, консерватизм, методичний підхід, наполегливість",
+      "ru": "Эффективность, рутина, консерватизм, методичный подход, настойчивость"
+    },
+    "reversedMeaning": {
+      "en": "Stagnation, boredom, lack of motivation, carelessness, impatience",
+      "ua": "Застій, нудьга, відсутність мотивації, недбалість, нетерпіння",
+      "ru": "Застой, скука, отсутствие мотивации, небрежность, нетерпение"
+    },
+    "imageName": "Pentacles12"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 13",
+      "ua": "Королева Пентаклів",
+      "ru": "Королева Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Nurturing, practicality, security, comfort, prosperity",
+      "ua": "Виховання, практичність, безпека, комфорт, процвітання",
+      "ru": "Воспитание, практичность, безопасность, комфорт, процветание"
+    },
+    "reversedMeaning": {
+      "en": "Materialism, insecurity, dependence, lack of self-care, neglect",
+      "ua": "Матеріалізм, незахищеність, залежність, відсутність турботи про себе, нехтування",
+      "ru": "Материализм, незащищенность, зависимость, отсутствие заботы о себе, пренебрежение"
+    },
+    "imageName": "Pentacles13"
+  },
+  {
+    "name": {
+      "en": "Pentacles of 14",
+      "ua": "Король Пентаклів",
+      "ru": "Король Пентаклей"
+    },
+    "uprightMeaning": {
+      "en": "Security, control, generosity, abundance, business acumen",
+      "ua": "Безпека, контроль, щедрість, достаток, ділова хватка",
+      "ru": "Безопасность, контроль, щедрость, изобилие, деловая хватка"
+    },
+    "reversedMeaning": {
+      "en": "Greed, materialism, lack of generosity, control issues, financial instability",
+      "ua": "Жадібність, матеріалізм, відсутність щедрості, проблеми з контролем, фінансова нестабільність",
+      "ru": "Жадность, материализм, отсутствие щедрости, проблемы с контролем, финансовая нестабильность"
+    },
+    "imageName": "Pentacles14"
+  },
+  {
+    "name": {
+      "en": "Swords of 1",
+      "ua": "1 Мечів",
+      "ru": "1 Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Breakthroughs, new ideas, mental clarity, truth, assertiveness",
+      "ua": "Прориви, нові ідеї, ясність розуму, правда, напористість",
+      "ru": "Прорывы, новые идеи, ясность ума, правда, напористость"
+    },
+    "reversedMeaning": {
+      "en": "Confusion, mental block, lack of clarity, lies, aggression",
+      "ua": "Плутанина, розумовий блок, відсутність ясності, брехня, агресія",
+      "ru": "Путаница, умственный блок, отсутствие ясности, ложь, агрессия"
+    },
+    "imageName": "Swords01"
+  },
+  {
+    "name": {
+      "en": "Swords of 2",
+      "ua": "2 Мечів",
+      "ru": "2 Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Indecision, stalemate, avoidance, blocked emotions, difficult choices",
+      "ua": "Нерішучість, глухий кут, уникнення, заблоковані емоції, складний вибір",
+      "ru": "Нерешительность, тупик, избегание, заблокированные эмоции, сложный выбор"
+    },
+    "reversedMeaning": {
+      "en": "Indecisiveness, confusion, information overload, release of blocked emotions",
+      "ua": "Нерішучість, плутанина, перевантаження інформацією, вивільнення заблокованих емоцій",
+      "ru": "Нерешительность, путаница, перегрузка информацией, высвобождение заблокированных эмоций"
+    },
+    "imageName": "Swords02"
+  },
+  {
+    "name": {
+      "en": "Swords of 3",
+      "ua": "3 Мечів",
+      "ru": "3 Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Heartbreak, emotional pain, sorrow, grief, betrayal",
+      "ua": "Розбите серце, емоційний біль, скорбота, горе, зрада",
+      "ru": "Разбитое сердце, эмоциональная боль, скорбь, горе, предательство"
+    },
+    "reversedMeaning": {
+      "en": "Release of pain, forgiveness, healing, moving on, optimism",
+      "ua": "Звільнення від болю, прощення, зцілення, рух вперед, оптимізм",
+      "ru": "Освобождение от боли, прощение, исцеление, движение вперед, оптимизм"
+    },
+    "imageName": "Swords03"
+  },
+  {
+    "name": {
+      "en": "Swords of 4",
+      "ua": "4 Мечів",
+      "ru": "4 Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Rest, recovery, contemplation, meditation, peace",
+      "ua": "Відпочинок, відновлення, споглядання, медитація, мир",
+      "ru": "Отдых, восстановление, созерцание, медитация, мир"
+    },
+    "reversedMeaning": {
+      "en": "Burnout, restlessness, lack of progress, isolation, anxiety",
+      "ua": "Вигорання, неспокій, відсутність прогресу, ізоляція, тривога",
+      "ru": "Выгорание, беспокойство, отсутствие прогресса, изоляция, тревога"
+    },
+    "imageName": "Swords04"
+  },
+  {
+    "name": {
+      "en": "Swords of 5",
+      "ua": "5 Мечів",
+      "ru": "5 Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Conflict, defeat, betrayal, loss, dishonor",
+      "ua": "Конфлікт, поразка, зрада, втрата, безчестя",
+      "ru": "Конфликт, поражение, предательство, потеря, бесчестье"
+    },
+    "reversedMeaning": {
+      "en": "Compromise, reconciliation, forgiveness, moving on, letting go",
+      "ua": "Компроміс, примирення, прощення, рух вперед, відпускання",
+      "ru": "Компромисс, примирение, прощение, движение вперед, отпускание"
+    },
+    "imageName": "Swords05"
+  },
+  {
+    "name": {
+      "en": "Swords of 6",
+      "ua": "6 Мечів",
+      "ru": "6 Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Transition, moving on, change, acceptance, healing",
+      "ua": "Перехід, рух вперед, зміни, прийняття, зцілення",
+      "ru": "Переход, движение вперед, перемены, принятие, исцеление"
+    },
+    "reversedMeaning": {
+      "en": "Stuck in the past, resistance to change, lack of progress, stagnation, fear",
+      "ua": "Застряг у минулому, опір змінам, відсутність прогресу, застій, страх",
+      "ru": "Застрял в прошлом, сопротивление переменам, отсутствие прогресса, застой, страх"
+    },
+    "imageName": "Swords06"
+  },
+  {
+    "name": {
+      "en": "Swords of 7",
+      "ua": "7 Мечів",
+      "ru": "7 Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Deception, betrayal, trickery, strategy, avoidance",
+      "ua": "Обман, зрада, хитрість, стратегія, уникнення",
+      "ru": "Обман, предательство, хитрость, стратегия, избегание"
+    },
+    "reversedMeaning": {
+      "en": "Honesty, integrity, taking responsibility, facing consequences, truth",
+      "ua": "Чесність, цілісність, взяття на себе відповідальності, зустріч з наслідками, правда",
+      "ru": "Честность, целостность, взятие на себя ответственности, встреча с последствиями, правда"
+    },
+    "imageName": "Swords07"
+  },
+  {
+    "name": {
+      "en": "Swords of 8",
+      "ua": "8 Мечів",
+      "ru": "8 Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Restriction, limitation, self-imposed limitations, victimhood, fear",
+      "ua": "Обмеження, обмеження, самообмеження, жертовність, страх",
+      "ru": "Ограничение, ограничение, самоограничение, жертвенность, страх"
+    },
+    "reversedMeaning": {
+      "en": "Freedom, release, empowerment, taking control, overcoming obstacles",
+      "ua": "Свобода, звільнення, розширення можливостей, взяття контролю, подолання перешкод",
+      "ru": "Свобода, освобождение, расширение возможностей, взятие контроля, преодоление препятствий"
+    },
+    "imageName": "Swords08"
+  },
+  {
+    "name": {
+      "en": "Swords of 9",
+      "ua": "9 Мечів",
+      "ru": "9 Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Anxiety, worry, fear, guilt, depression",
+      "ua": "Тривога, занепокоєння, страх, провина, депресія",
+      "ru": "Тревога, беспокойство, страх, вина, депрессия"
+    },
+    "reversedMeaning": {
+      "en": "Hope, optimism, facing fears, release of anxiety, healing",
+      "ua": "Надія, оптимізм, зустріч зі страхами, звільнення від тривоги, зцілення",
+      "ru": "Надежда, оптимизм, встреча со страхами, освобождение от тревоги, исцеление"
+    },
+    "imageName": "Swords09"
+  },
+  {
+    "name": {
+      "en": "Swords of 10",
+      "ua": "10 Мечів",
+      "ru": "10 Мечей"
+    },
+    "uprightMeaning": {
+      "en": "End of cycle, rock bottom, defeat, crisis, release",
+      "ua": "Кінець циклу, дно, поразка, криза, звільнення",
+      "ru": "Конец цикла, дно, поражение, кризис, освобождение"
+    },
+    "reversedMeaning": {
+      "en": "Resistance to change, fear of endings, delaying the inevitable, avoiding disaster",
+      "ua": "Опір змінам, страх кінців, відстрочка неминучого, уникнення катастрофи",
+      "ru": "Сопротивление переменам, страх концов, отсрочка неизбежного, избегание катастрофы"
+    },
+    "imageName": "Swords10"
+  },
+  {
+    "name": {
+      "en": "Swords of 11",
+      "ua": "Паж Мечів",
+      "ru": "Паж Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Curiosity, mental energy, communication, truth, vigilance",
+      "ua": "Цікавість, розумова енергія, спілкування, правда, пильність",
+      "ru": "Любопытство, умственная энергия, общение, правда, бдительность"
+    },
+    "reversedMeaning": {
+      "en": "Gossip, manipulation, lack of communication, lies, paranoia",
+      "ua": "Плітки, маніпуляція, відсутність спілкування, брехня, параноя",
+      "ru": "Сплетни, манипуляция, отсутствие общения, ложь, паранойя"
+    },
+    "imageName": "Swords11"
+  },
+  {
+    "name": {
+      "en": "Swords of 12",
+      "ua": "Лицар Мечів",
+      "ru": "Рыцарь Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Communication, truth, intellect, determination, focus",
+      "ua": "Спілкування, правда, інтелект, рішучість, зосередженість",
+      "ru": "Общение, правда, интеллект, решительность, сосредоточенность"
+    },
+    "reversedMeaning": {
+      "en": "Aggression, impulsiveness, lack of focus, manipulation, lies",
+      "ua": "Агресія, імпульсивність, відсутність зосередженості, маніпуляція, брехня",
+      "ru": "Агрессия, импульсивность, отсутствие сосредоточенности, манипуляция, ложь"
+    },
+    "imageName": "Swords12"
+  },
+  {
+    "name": {
+      "en": "Swords of 13",
+      "ua": "Королева Мечів",
+      "ru": "Королева Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Intellect, independence, clarity, objectivity, truth",
+      "ua": "Інтелект, незалежність, ясність, об'єктивність, правда",
+      "ru": "Интеллект, независимость, ясность, объективность, правда"
+    },
+    "reversedMeaning": {
+      "en": "Coldness, bitterness, manipulation, lack of empathy, harshness",
+      "ua": "Холодність, гіркота, маніпуляція, відсутність емпатії, суворість",
+      "ru": "Холодность, горечь, манипуляция, отсутствие эмпатии, суровость"
+    },
+    "imageName": "Swords13"
+  },
+  {
+    "name": {
+      "en": "Swords of 14",
+      "ua": "Король Мечів",
+      "ru": "Король Мечей"
+    },
+    "uprightMeaning": {
+      "en": "Intellect, authority, truth, objectivity, clarity",
+      "ua": "Інтелект, влада, правда, об'єктивність, ясність",
+      "ru": "Интеллект, власть, правда, объективность, ясность"
+    },
+    "reversedMeaning": {
+      "en": "Manipulation, abuse of power, lack of empathy, harshness, coldness",
+      "ua": "Маніпуляція, зловживання владою, відсутність емпатії, суворість, холодність",
+      "ru": "Манипуляция, злоупотребление властью, отсутствие эмпатии, суровость, холодность"
+    },
+    "imageName": "Swords14"
+  },
+  {
+    "name": {
+      "en": "Wands of 1",
+      "ua": "1 Жезлів",
+      "ru": "1 Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Inspiration, potential, new beginnings, enthusiasm, creativity",
+      "ua": "Натхнення, потенціал, нові починання, ентузіазм, творчість",
+      "ru": "Вдохновение, потенциал, новые начинания, энтузиазм, творчество"
+    },
+    "reversedMeaning": {
+      "en": "Lack of motivation, delays, lack of creativity, missed opportunities, hesitation",
+      "ua": "Відсутність мотивації, затримки, відсутність творчості, втрачені можливості, вагання",
+      "ru": "Отсутствие мотивации, задержки, отсутствие творчества, упущенные возможности, колебание"
+    },
+    "imageName": "Wands01"
+  },
+  {
+    "name": {
+      "en": "Wands of 2",
+      "ua": "2 Жезлів",
+      "ru": "2 Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Planning, progress, decisions, discovery, future planning",
+      "ua": "Планування, прогрес, рішення, відкриття, планування майбутнього",
+      "ru": "Планирование, прогресс, решения, открытие, планирование будущего"
+    },
+    "reversedMeaning": {
+      "en": "Lack of planning, fear of the unknown, delays, lack of progress, indecision",
+      "ua": "Відсутність планування, страх невідомого, затримки, відсутність прогресу, нерішучість",
+      "ru": "Отсутствие планирования, страх неизвестного, задержки, отсутствие прогресса, нерешительность"
+    },
+    "imageName": "Wands02"
+  },
+  {
+    "name": {
+      "en": "Wands of 3",
+      "ua": "3 Жезлів",
+      "ru": "3 Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Progress, expansion, exploration, travel, looking to the future",
+      "ua": "Прогрес, розширення, дослідження, подорожі, погляд у майбутнє",
+      "ru": "Прогресс, расширение, исследование, путешествия, взгляд в будущее"
+    },
+    "reversedMeaning": {
+      "en": "Lack of progress, delays, lack of planning, obstacles, disappointment",
+      "ua": "Відсутність прогресу, затримки, відсутність планування, перешкоди, розчарування",
+      "ru": "Отсутствие прогресса, задержки, отсутствие планирования, препятствия, разочарование"
+    },
+    "imageName": "Wands03"
+  },
+  {
+    "name": {
+      "en": "Wands of 4",
+      "ua": "4 Жезлів",
+      "ru": "4 Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Celebration, joy, harmony, home, community",
+      "ua": "Святкування, радість, гармонія, дім, спільнота",
+      "ru": "Празднование, радость, гармония, дом, сообщество"
+    },
+    "reversedMeaning": {
+      "en": "Lack of celebration, disharmony, lack of community, instability, feeling unwelcome",
+      "ua": "Відсутність святкування, дисгармонія, відсутність спільноти, нестабільність, відчуття небажаності",
+      "ru": "Отсутствие празднования, дисгармония, отсутствие сообщества, нестабильность, чувство нежеланности"
+    },
+    "imageName": "Wands04"
+  },
+  {
+    "name": {
+      "en": "Wands of 5",
+      "ua": "5 Жезлів",
+      "ru": "5 Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Competition, disagreement, conflict, diversity, challenges",
+      "ua": "Конкуренція, розбіжності, конфлікт, різноманітність, виклики",
+      "ru": "Конкуренция, разногласия, конфликт, разнообразие, вызовы"
+    },
+    "reversedMeaning": {
+      "en": "Avoidance of conflict, compromise, resolution, harmony, peace",
+      "ua": "Уникнення конфлікту, компроміс, вирішення, гармонія, мир",
+      "ru": "Избегание конфликта, компромисс, разрешение, гармония, мир"
+    },
+    "imageName": "Wands05"
+  },
+  {
+    "name": {
+      "en": "Wands of 6",
+      "ua": "6 Жезлів",
+      "ru": "6 Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Success, victory, recognition, public reward, confidence",
+      "ua": "Успіх, перемога, визнання, публічна винагорода, впевненість",
+      "ru": "Успех, победа, признание, публичное вознаграждение, уверенность"
+    },
+    "reversedMeaning": {
+      "en": "Lack of success, failure, disappointment, lack of recognition, pride",
+      "ua": "Відсутність успіху, невдача, розчарування, відсутність визнання, гордість",
+      "ru": "Отсутствие успеха, неудача, разочарование, отсутствие признания, гордость"
+    },
+    "imageName": "Wands06"
+  },
+  {
+    "name": {
+      "en": "Wands of 7",
+      "ua": "7 Жезлів",
+      "ru": "7 Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Challenge, competition, perseverance, defense, standing your ground",
+      "ua": "Виклик, конкуренція, наполегливість, захист, відстоювання своєї позиції",
+      "ru": "Вызов, конкуренция, настойчивость, защита, отстаивание своей позиции"
+    },
+    "reversedMeaning": {
+      "en": "Giving up, feeling overwhelmed, lack of courage, vulnerability, defeat",
+      "ua": "Здача, відчуття перевантаження, відсутність мужності, вразливість, поразка",
+      "ru": "Сдача, чувство перегруженности, отсутствие мужества, уязвимость, поражение"
+    },
+    "imageName": "Wands07"
+  },
+  {
+    "name": {
+      "en": "Wands of 8",
+      "ua": "8 Жезлів",
+      "ru": "8 Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Movement, speed, change, action, travel",
+      "ua": "Рух, швидкість, зміни, дії, подорожі",
+      "ru": "Движение, скорость, перемены, действия, путешествия"
+    },
+    "reversedMeaning": {
+      "en": "Delays, frustration, lack of progress, stagnation, impatience",
+      "ua": "Затримки, розчарування, відсутність прогресу, застій, нетерпіння",
+      "ru": "Задержки, разочарование, отсутствие прогресса, застой, нетерпение"
+    },
+    "imageName": "Wands08"
+  },
+  {
+    "name": {
+      "en": "Wands of 9",
+      "ua": "9 Жезлів",
+      "ru": "9 Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Endurance, resilience, perseverance, defense, boundaries",
+      "ua": "Витривалість, стійкість, наполегливість, захист, межі",
+      "ru": "Выносливость, стойкость, настойчивость, защита, границы"
+    },
+    "reversedMeaning": {
+      "en": "Paranoia, defensiveness, lack of trust, giving up, feeling overwhelmed",
+      "ua": "Параноя, захисна позиція, відсутність довіри, здача, відчуття перевантаження",
+      "ru": "Параноя, защитная позиция, отсутствие доверия, сдача, чувство перегруженности"
+    },
+    "imageName": "Wands09"
+  },
+  {
+    "name": {
+      "en": "Wands of 10",
+      "ua": "10 Жезлів",
+      "ru": "10 Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Burden, responsibility, stress, exhaustion, overwork",
+      "ua": "Тягар, відповідальність, стрес, виснаження, перевтома",
+      "ru": "Бремя, ответственность, стресс, истощение, переутомление"
+    },
+    "reversedMeaning": {
+      "en": "Release of burden, delegation, rest, taking a break, relief",
+      "ua": "Звільнення від тягаря, делегування, відпочинок, перерва, полегшення",
+      "ru": "Освобождение от бремени, делегирование, отдых, перерыв, облегчение"
+    },
+    "imageName": "Wands10"
+  },
+  {
+    "name": {
+      "en": "Wands of 11",
+      "ua": "Паж Жезлів",
+      "ru": "Паж Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Inspiration, creativity, enthusiasm, adventure, new ideas",
+      "ua": "Натхнення, творчість, ентузіазм, пригоди, нові ідеї",
+      "ru": "Вдохновение, творчество, энтузиазм, приключения, новые идеи"
+    },
+    "reversedMeaning": {
+      "en": "Lack of enthusiasm, lack of creativity, delays, lack of motivation, feeling lost",
+      "ua": "Відсутність ентузіазму, відсутність творчості, затримки, відсутність мотивації, відчуття розгубленості",
+      "ru": "Отсутствие энтузиазма, отсутствие творчества, задержки, отсутствие мотивации, чувство растерянности"
+    },
+    "imageName": "Wands11"
+  },
+  {
+    "name": {
+      "en": "Wands of 12",
+      "ua": "Лицар Жезлів",
+      "ru": "Рыцарь Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Adventure, passion, courage, enthusiasm, action",
+      "ua": "Пригоди, пристрасть, мужність, ентузіазм, дія",
+      "ru": "Приключения, страсть, мужество, энтузиазм, действие"
+    },
+    "reversedMeaning": {
+      "en": "Impulsiveness, recklessness, lack of direction, frustration, delays",
+      "ua": "Імпульсивність, безрозсудність, відсутність напрямку, розчарування, затримки",
+      "ru": "Импульсивность, безрассудство, отсутствие направления, разочарование, задержки"
+    },
+    "imageName": "Wands12"
+  },
+  {
+    "name": {
+      "en": "Wands of 13",
+      "ua": "Королева Жезлів",
+      "ru": "Королева Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Enthusiasm, passion, creativity, confidence, independence",
+      "ua": "Ентузіазм, пристрасть, творчість, впевненість, незалежність",
+      "ru": "Энтузиазм, страсть, творчество, уверенность, независимость"
+    },
+    "imageName": "Wands13",
+    "reversedMeaning": {
+      "en": "Jealousy, insecurity, lack of confidence, dependence, possessiveness",
+      "ua": "Ревнощі, невпевненість, відсутність впевненості, залежність, власництво",
+      "ru": "Ревность, неуверенность, отсутствие уверенности, зависимость, собственничество"
+    }
+  },
+  {
+    "name": {
+      "en": "Wands of 14",
+      "ua": "Король Жезлів",
+      "ru": "Король Жезлов"
+    },
+    "uprightMeaning": {
+      "en": "Leadership, vision, creativity, enthusiasm, passion",
+      "ua": "Лідерство, бачення, творчість, ентузіазм, пристрасть",
+      "ru": "Лидерство, видение, творчество, энтузиазм, страсть"
+    },
+    "reversedMeaning": {
+      "en": "Impulsiveness, recklessness, lack of vision, lack of control, arrogance",
+      "ua": "Імпульсивність, безрозсудність, відсутність бачення, відсутність контролю, зарозумілість",
+      "ru": "Импульсивность, безрассудство, отсутствие видения, отсутствие контроля, высокомерие"
+    },
+    "imageName": "Wands14"
+  }
+]
