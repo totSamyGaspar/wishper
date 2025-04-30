@@ -38,7 +38,7 @@ struct HistoryCardView: View {
                         .stroke(Color.pureGold.opacity(0.6), lineWidth: 1)
                 )
             }
-
+            
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top, spacing: 16) {
                     ForEach(item.cards) { card in
@@ -66,6 +66,7 @@ struct HistoryCardView: View {
                 }
                 .padding(.top)
             }
+            .padding(.vertical, 4)
         }
         .padding()
         .background(Color.misteryBlue.opacity(0.5))
@@ -77,6 +78,7 @@ struct HistoryCardView: View {
         .shadow(radius: 4)
     }
 }
+
 #Preview {
     HistoryCardView(item: TarotReadingHistoryItem(
         date: Date(), question: "Моє запитання", spreadType: .love,

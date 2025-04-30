@@ -72,7 +72,7 @@ struct TarotReadingView: View {
     }
     
     private var headerTitle: some View {
-        Text(spreadType.localizedTitlePiker(lang: "ua"))
+        Text(spreadType.localizedTitlePiker(lang: language))
             .font(.title)
             .bold()
             .foregroundColor(.pureGold)

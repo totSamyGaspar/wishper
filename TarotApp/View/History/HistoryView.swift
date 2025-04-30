@@ -62,22 +62,26 @@ struct HistoryView: View {
                     .foregroundColor(.pureGold)
                     .padding(.top, 50)
                 } else {
-                    ScrollView {
-                        LazyVStack(spacing: 16) {
+                        List {
                             ForEach(filteredHistory) { item in
                                 HistoryCardView(item: item)
                                     .padding(.horizontal)
                                     .transition(.opacity)
+                                    .listRowInsets(EdgeInsets())
+                                    .listRowBackground(Color.clear)
                             }
                             .onDelete { indexSet in
                                 deleteIndexSet = indexSet
                             }
                         }
+                        .listStyle(.plain)
+                        .background(Color.clear)
+                        .scrollContentBackground(.hidden)
                         .padding(.top)
                         .padding(.horizontal)
                     }
-                }
                 
+
                 if !history.isEmpty {
                     Button(Localized.t(.deleteAll, lang: language)) {
                         showDeleteAllAlert = true

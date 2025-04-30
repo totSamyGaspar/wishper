@@ -24,7 +24,7 @@ struct CardInfoView: View {
                 
             }
         }
-        Text(meaningText()) // Використовуємо функцію для спрощення
+        Text(meaningText())
             .font(.caption2)
             .italic()
             .multilineTextAlignment(.center)
